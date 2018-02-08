@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Sheng Liu</title>
+    <link>https://lius10.github.io/publication/</link>
+    <description>Recent content in Publications on Sheng Liu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://lius10.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Adjacency-Clustering and Its Application for Yield Prediction in Integrated Circuit Manufacturing</title>
+      <link>https://lius10.github.io/publication/opre2018/</link>
+      <pubDate>Fri, 02 Feb 2018 13:43:36 -0800</pubDate>
+      
+      <guid>https://lius10.github.io/publication/opre2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shared Mobility for Last-Mile Delivery: Design, Operational Prescriptions and Environmental Impact</title>
+      <link>https://lius10.github.io/publication/msom2017/</link>
+      <pubDate>Thu, 02 Feb 2017 13:33:33 -0800</pubDate>
+      
+      <guid>https://lius10.github.io/publication/msom2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Study of Three-Period Ramp-Up Polytope</title>
+      <link>https://lius10.github.io/publication/polytope2015/</link>
+      <pubDate>Mon, 02 Feb 2015 13:43:36 -0800</pubDate>
+      
+      <guid>https://lius10.github.io/publication/polytope2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Sheng Liu</title>
+    <link>https://lius10.github.io/home/</link>
+    <description>Recent content in Homes on Sheng Liu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://lius10.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://lius10.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://lius10.github.io/home/about/</guid>
+      <description>Biography Sheng Liu is a PhD candidate in the IEOR department, UC Berkeley. His major research interests include supply chain management and data-driven optimization.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://lius10.github.io/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://lius10.github.io/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://lius10.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://lius10.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>https://lius10.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://lius10.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://lius10.github.io/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://lius10.github.io/home/teaching/</guid>
+      <description>I have benn teaching assistant to optimization and statistics courses:
+ IEOR 268, Applied Dynamic Programming IEOR 165: Engineering Statistics, Quality Control, and Forecasting IEOR 160: Nonlinear and Discrete Optimization E120, Engineering Economics  </description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>https://lius10.github.io/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://lius10.github.io/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://lius10.github.io/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://lius10.github.io/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Professional Experience</title>
+      <link>https://lius10.github.io/home/work/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://lius10.github.io/home/work/</guid>
+      <description>I have interned at Amazon (Summer 2017) and China Center for Operations Excellence (McKinsey &amp;amp; Company, Summer 2013). I am very fortunate to be advised by Muhong Zhang and Zhihai Zhang during my intership.</description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>https://lius10.github.io/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://lius10.github.io/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://lius10.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://lius10.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
